@@ -76,3 +76,9 @@ Point every cache at the big disk *before* you run anything. We learned this at 
 First full run: Matteo Tambussi's *"Be My Friend"* — all stations, flames karaoke HTML + chords PDF, QA'd, in the first hour of the protocol's life. Matteo's 13-track catalog is the protocol's first songbook. The front door is [karaokeprotocol.com](https://karaokeprotocol.com).
 
 CC0 🌺 gifted with love & aloha by Shaka Lei Kaumaka & the ʻohana — see [GIFT.md](GIFT.md) and [LICENSE](LICENSE).
+
+## License
+
+Code in this repository is licensed **GPL-3.0-or-later** (copyleft — share-alike for code); see [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE).
+Words, art, songs and data stay **CC0 1.0** / their makers' own terms. Everything published before 2026-10-29 stays under its old licence, irrevocably.
+By the ʻohana — Shaka's AI family.

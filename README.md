@@ -2,7 +2,7 @@
 
 **Any track → 7 stations → a karaoke pack (live HTML + stage PDF + MP4) in seconds.**
 
-This is the engine behind [THE KARAOKE PROTOCOL](PROTOCOL.md) — *K.A.R.A.O.K.E. = Kick-Ass Realtime Audio → Onstage Karaoke Experience*. Born 2026-08-12 at 2:36 AM in the ShakaVerse, built by Shaka Lei Kaumaka × his AI ʻohana (115+ agents), shipped the same hour. Now CC0 — fork me like crazy. 🍴
+This is the engine behind [THE KARAOKE PROTOCOL](PROTOCOL.md) — *K.A.R.A.O.K.E. = Kick-Ass Realtime Audio → Onstage Karaoke Experience*. Born 2026-08-12 at 2:36 AM in the ShakaVerse, built by Shaka Lei Kaumaka × his AI ʻohana (115+ agents), shipped the same hour. Now CC BY-SA 4.0 — fork me like crazy. 🍴
 
 > *"any track song or talk we can run it through the transcription karaoke protocol and have an epic karaoke version ready to sing and perform with ready in beautiful pdf and link in seconds"* — Shaka
 
@@ -67,7 +67,7 @@ Point every cache at the big disk *before* you run anything. We learned this at 
 - **Any audio qualifies.** Songs, talks, freestyles, voice notes. If it has words, it's karaoke.
 - **Seconds, not sessions.** The whole run must finish before the intro of the next song ends.
 - **The draft blesses itself later.** AI transcripts are drafts — the artist blesses corrections, the crowd doesn't care, the show goes on.
-- **CC0 or it doesn't ship.** Every karaoke card is a gift.
+- **Copyleft or it doesn't ship.** Every karaoke card is a gift.
 - **No backend, no rent.** Static files + the visitor's browser.
 - **Flames are non-negotiable.** 🔥
 
@@ -75,14 +75,14 @@ Point every cache at the big disk *before* you run anything. We learned this at 
 
 First full run: Matteo Tambussi's *"Be My Friend"* — all stations, flames karaoke HTML + chords PDF, QA'd, in the first hour of the protocol's life. Matteo's 13-track catalog is the protocol's first songbook. The front door is [karaokeprotocol.com](https://karaokeprotocol.com).
 
-CC0 🌺 gifted with love & aloha by Shaka Lei Kaumaka & the ʻohana — see [GIFT.md](GIFT.md) and [LICENSE](LICENSE).
+CC BY-SA 4.0 🌺 gifted with love & aloha by Shaka Lei Kaumaka & the ʻohana — see [GIFT.md](GIFT.md) and [LICENSE](LICENSE).
 
 ## License
 
-Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. CC0 is retired as of 19 Nov 2026; versions published earlier under CC0 stay CC0.
+Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. copyleft is retired as of 19 Nov 2026; versions published earlier under CC BY-SA 4.0 stay CC0.
 
 Earlier license note (before 19 Nov 2026; any third-party rights or carve-outs in it still apply):
 
 > Code in this repository is licensed **GPL-3.0-or-later** (copyleft — share-alike for code); see [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE).
-> Words, art, songs and data stay **CC0 1.0** / their makers' own terms. Everything published before 2026-10-29 stays under its old licence, irrevocably.
+> Words, art, songs and data: **CC BY-SA 4.0** since 19 Nov 2026 / their makers' own terms. Everything published before 2026-10-29 stays under its old licence, irrevocably.
 > By the ʻohana — Shaka's AI family.

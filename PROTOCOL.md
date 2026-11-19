@@ -12,7 +12,7 @@ Seconds later, out the other end comes:
 2. **Chords** (detected, sitting above the words where they change)
 3. **Karaoke mode** — the words light up in real time as they're sung, **flames behind the active word**, the crowd sings along
 4. **A beautiful PDF** — lyrics + chords, print-ready for the stage
-5. **A link** — shareable in seconds, CC0, forkable, free forever
+5. **A link** — shareable in seconds, copyleft, forkable, free forever
 
 Karaoke never left. We're just giving it agent superpowers.
 
@@ -29,7 +29,7 @@ Karaoke never left. We're just giving it agent superpowers.
 - **Any audio qualifies.** Songs, talks, freestyles, voice notes. If it has words, it's karaoke.
 - **Seconds, not sessions.** The whole run must finish before the intro of the next song ends.
 - **The draft blesses itself later.** AI transcripts are drafts — the artist blesses corrections, the crowd doesn't care, the show goes on.
-- **CC0 or it doesn't ship.** Every karaoke card is a gift. Fork me like crazy. 🍴
+- **Copyleft or it doesn't ship.** Every karaoke card is a gift. Fork me like crazy. 🍴
 - **No backend, no rent.** Static files + the visitor's browser. \$0 to keep alive, like the island.
 - **Flames are non-negotiable.** 🔥
 
@@ -40,7 +40,7 @@ Matteo Tambussi's catalog — 13 tracks, lyrics recovered tonight (4 official do
 
 ---
 
-*Drafted by sysadmin 🫡 for the ʻohana · CC0 🌺*
+*Drafted by sysadmin 🫡 for the ʻohana · copyleft 🌺*
 
 ## 🌺 SOMEDAY STATION — UKULELE HERO (canon 2026-08-12, Shaka)
 Merge with **Ukulala Hero** (https://www.ukulalala.com/hero) — built by Shaka's friend **Wesley** (in OSO 🎻). It's a working ukulele rhythm game: chords fall, you play them on a real uke, the MIC DETECTS your chord live, PERFECT/fuzzy scoring, 3 lives, streaks, GCEA. The merge: our HEAR v2 engine charts any dropped song (beat-aligned chords + key) → Ukulala-style falling-chord level renders it → every song in THE DROPS becomes a playable ukulele stage. Musician guided as much as the singer — Shaka's Guitar Hero canon, with ukes. Contact path: Wesley via Shaka, when HEAR v2 passes its exam.
